@@ -10,7 +10,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/flynn/hid"
+	"github.com/convox/hid"
 )
 
 const (
